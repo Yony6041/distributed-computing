@@ -1,0 +1,69 @@
+{
+  "workbench.colorTheme": "Google Colab Dark Theme",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1E1E1E",
+    "titleBar.activeBackground": "#2D2D2D",
+    "titleBar.activeForeground": "#FFFFFF",
+    "statusBar.background": "#1E1E1E",
+    "statusBar.foreground": "#FFFFFF",
+    "sideBar.background": "#252525",
+    "editor.background": "#1E1E1E",
+    "editor.foreground": "#D4D4D4",
+    "editorLineNumber.foreground": "#858585",
+    "editorLineNumber.activeForeground": "#FFFFFF",
+    "editorCursor.foreground": "#FFFFFF",
+    "editor.selectionBackground": "#3A3D41",
+    "editor.inactiveSelectionBackground": "#3A3D4140",
+    "terminal.integrated.foreground": "#D4D4D4",
+    "terminal.integrated.background": "#1E1E1E",
+    "terminal.integrated.ansiBrightPurple": "#B180D7",
+    "terminal.integrated.ansiPurple": "#7E57C2"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#6A9955",
+    "keywords": "#569CD6",
+    "variables": "#9CDCFE",
+    "numbers": "#B5CEA8",
+    "strings": "#CE9178",
+    "types": "#4EC9B0",
+    "functions": "#DCDCAA",
+    "textMateRules": [
+      {
+        "scope": [
+          "keyword.operator"
+        ],
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": [
+          "storage.type"
+        ],
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      },
+      {
+        "scope": [
+          "entity.name.function"
+        ],
+        "settings": {
+          "foreground": "#DCDCAA"
+        }
+      },
+      {
+        "scope": [
+          "variable.parameter"
+        ],
+        "settings": {
+          "foreground": "#9CDCFE"
+        }
+      }
+    ]
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
