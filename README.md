@@ -109,12 +109,12 @@ This is an example of how to list things you need to use the software and how to
    
     With https:
    ```sh
-   git clone https://github.com/Yony6041/statistics-homework1.git
+   git clone https://github.com/Yony6041/distributed-computing.git
    ```
     With ssh:
 
    ```sh
-   git clone git@github.com:Yony6041/statistics-homework1.git
+   git clone git@github.com:Yony6041/distributed-computing.git
    ```
 
 
@@ -146,10 +146,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Running the homework
 
-1. Initialize docker container
-```bash
-$ python3 ...
-```
+1. gcc -o runPractice1 Practica1_YonathanBerith_JaramilloRamírez.c
+2. ./runPractice1
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,8 +168,6 @@ $ python3 ...
 ## Online Materials
 
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -185,8 +181,5 @@ Computer scientist
 - [Github](https://github.com/Yony6041)
 - [LinkedIn](https://www.linkedin.com/in/yonathan-jaramillo-a506181a7/?originalSubdomain=mx)
 
-### Mathematician
-
-- Dalia Viridiana Martinez Retiz.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
