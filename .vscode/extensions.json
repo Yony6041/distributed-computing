@@ -5,6 +5,7 @@
         "mhutchie.git-graph",
         "pkief.material-icon-theme",
         "gruntfuggly.todo-tree",
-        "github.vscode-pull-request-github"
+        "github.vscode-pull-request-github",
+        "ms-vscode.cpptools-extension-pack"
     ]
 }
